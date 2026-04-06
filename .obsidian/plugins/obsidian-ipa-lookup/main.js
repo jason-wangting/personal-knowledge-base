@@ -13,34 +13,39 @@ class IpaResultModal extends Modal {
     contentEl.empty();
     contentEl.addClass("ipa-lookup-modal");
 
-    const title = contentEl.createEl("h2", { text: this.payload.word });
+    const title = contentEl.createEl("h2", { text: this.payload.queryText });
     title.addClass("ipa-title");
 
-    const ipaLine = contentEl.createEl("p");
-    ipaLine.addClass("ipa-phonetic");
-    ipaLine.setText(this.payload.ipa || "IPA not found");
-
-    if (this.payload.audioUrl) {
-      const audioWrap = contentEl.createDiv({ cls: "ipa-audio-wrap" });
-      const playBtn = audioWrap.createEl("button", { text: "Play pronunciation" });
-      playBtn.addClass("mod-cta");
-      playBtn.addEventListener("click", () => {
-        const audio = new Audio(this.payload.audioUrl);
-        audio.play().catch(() => {
-          new Notice("Unable to play pronunciation audio.");
-        });
-      });
-    }
-
-    if (!this.payload.definitions.length) {
-      contentEl.createEl("p", { text: "No English definitions found." });
+    if (!this.payload.entries.length) {
+      contentEl.createEl("p", { text: "No dictionary result found." });
       return;
     }
 
-    const list = contentEl.createEl("ol");
-    this.payload.definitions.forEach((line) => {
-      list.createEl("li", { text: line });
-    });
+    for (const entry of this.payload.entries) {
+      const section = contentEl.createDiv({ cls: "ipa-entry" });
+      section.createEl("h3", { text: entry.word });
+
+      const ipaLine = section.createEl("p");
+      ipaLine.addClass("ipa-phonetic");
+      ipaLine.setText(entry.ipa || "IPA not found");
+
+      if (entry.audioUrl) {
+        const audioWrap = section.createDiv({ cls: "ipa-audio-wrap" });
+        const audio = audioWrap.createEl("audio");
+        audio.setAttr("controls", "true");
+        audio.setAttr("src", entry.audioUrl);
+      }
+
+      if (!entry.definitions.length) {
+        section.createEl("p", { text: "No English definitions found." });
+        continue;
+      }
+
+      const list = section.createEl("ol");
+      entry.definitions.forEach((line) => {
+        list.createEl("li", { text: line });
+      });
+    }
   }
 
   onClose() {
@@ -54,51 +59,67 @@ module.exports = class IpaLookupPlugin extends Plugin {
       id: "show-ipa-and-definition-for-selection",
       name: "Show IPA & Definition for Selection",
       editorCallback: async (editor) => {
-        const rawSelection = editor.getSelection();
-        const word = this.normalizeSelection(rawSelection);
-
-        if (!word) {
+        const selection = editor.getSelection();
+        if (!selection || !selection.trim()) {
           new Notice("Select an English word first.");
           return;
         }
 
-        await this.lookupAndShow(word);
+        await this.lookupAndShowSelection(selection);
       },
     });
 
     this.registerEvent(
       this.app.workspace.on("editor-menu", (menu, editor) => {
-        const word = this.normalizeSelection(editor.getSelection());
-        if (!word) return;
+        const selection = editor.getSelection();
+        if (!selection || !selection.trim()) return;
 
         menu.addItem((item) => {
           item
             .setTitle("Show IPA")
             .setIcon("languages")
-            .setSection("a-ipa-lookup")
+            .setSection("0-ipa-lookup")
             .onClick(async () => {
-              await this.lookupAndShow(word);
+              await this.lookupAndShowSelection(selection);
             });
         });
       })
     );
   }
 
-  normalizeSelection(text) {
-    if (!text) return "";
-
-    const trimmed = text.trim();
-    if (!trimmed) return "";
-
-    const singleWord = trimmed
-      .replace(/^[^a-zA-Z']+|[^a-zA-Z']+$/g, "")
-      .toLowerCase();
-
-    if (!singleWord || /\s/.test(singleWord)) return "";
-    return singleWord;
+  extractWords(text) {
+    if (!text) return [];
+    const matches = text.toLowerCase().match(/[a-z]+(?:'[a-z]+)*/g) || [];
+    return [...new Set(matches)].slice(0, 8);
   }
 
-  async lookupAndShow(word) {
+  async lookupAndShowSelection(text) {
+    const words = this.extractWords(text);
+    if (!words.length) {
+      new Notice("No English words found in selection.");
+      return;
+    }
+
+    const entries = await this.lookupWords(words);
+
+    if (!entries.length) {
+      new Notice("No dictionary result found for selected text.");
+      return;
+    }
+
+    new IpaResultModal(this.app, {
+      queryText: words.length === 1 ? words[0] : `${words.join(" ")} (${words.length} words)`,
+      entries,
+    }).open();
+  }
+
+  async lookupWords(words) {
+    const tasks = words.map((word) => this.lookupWord(word));
+    const results = await Promise.all(tasks);
+    return results.filter(Boolean);
+  }
+
+  async lookupWord(word) {
     try {
       const res = await requestUrl({
         url: `${DICTIONARY_API_BASE}${encodeURIComponent(word)}`,
@@ -106,15 +127,13 @@ module.exports = class IpaLookupPlugin extends Plugin {
       });
 
       if (res.status !== 200 || !Array.isArray(res.json) || !res.json.length) {
-        new Notice(`No dictionary result for: ${word}`);
-        return;
+        return null;
       }
 
-      const parsed = this.parseDictionaryResponse(word, res.json);
-      new IpaResultModal(this.app, parsed).open();
+      return this.parseDictionaryResponse(word, res.json);
     } catch (err) {
       console.error("IPA Lookup error", err);
-      new Notice("Lookup failed. Check network connection and try again.");
+      return null;
     }
   }
 
