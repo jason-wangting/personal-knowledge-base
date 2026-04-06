@@ -65,6 +65,23 @@ module.exports = class IpaLookupPlugin extends Plugin {
         await this.lookupAndShow(word);
       },
     });
+
+    this.registerEvent(
+      this.app.workspace.on("editor-menu", (menu, editor) => {
+        const word = this.normalizeSelection(editor.getSelection());
+        if (!word) return;
+
+        menu.addItem((item) => {
+          item
+            .setTitle("Show IPA")
+            .setIcon("languages")
+            .setSection("a-ipa-lookup")
+            .onClick(async () => {
+              await this.lookupAndShow(word);
+            });
+        });
+      })
+    );
   }
 
   normalizeSelection(text) {
