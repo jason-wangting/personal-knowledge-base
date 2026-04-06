@@ -1,3 +1,4 @@
+- [ ] 2026-04-06 16:07 | 知乎文章：https://zhuanlan.zhihu.com/p/1912933267537134138
 - [ ] 2026-04-06 15:48 | 微信文章：https://mp.weixin.qq.com/s/7HnHUp8VNinFlv648LBQRg （里面有关于 Plan Mode 的路径值得研究）
 - [ ] 2026-04-07  | 查看 Claude-code-VSCode 开源项目
 - [ ] 2026-04-06 14:31 | 用 TypeScript 重写福扣仓库，做成 VSCode 插件放到米沃斯项目里；探索将 free-code CY 工具封装成 VSCode 插件的可能性
