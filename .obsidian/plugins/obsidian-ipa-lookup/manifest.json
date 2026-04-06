@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-ipa-lookup",
+  "name": "IPA Lookup",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Show IPA and English definitions for the selected word.",
+  "author": "Local",
+  "isDesktopOnly": false
+}

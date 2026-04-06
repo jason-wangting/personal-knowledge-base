@@ -1,0 +1,19 @@
+.ipa-lookup-modal .ipa-title {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  text-transform: capitalize;
+}
+
+.ipa-lookup-modal .ipa-phonetic {
+  font-size: 1.1rem;
+  margin-top: 0;
+}
+
+.ipa-lookup-modal .ipa-audio-wrap {
+  margin-bottom: 0.75rem;
+}
+
+.ipa-lookup-modal ol {
+  margin-top: 0.5rem;
+  padding-left: 1.25rem;
+}
