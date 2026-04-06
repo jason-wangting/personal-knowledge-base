@@ -1,3 +1,4 @@
+- [ ] 2026-04-07  | 查看 Claude-code-VSCode 开源项目
 - [ ] 2026-04-06 14:31 | 用 TypeScript 重写福扣仓库，做成 VSCode 插件放到米沃斯项目里；探索将 free-code CY 工具封装成 VSCode 插件的可能性
 - [ ] 2026-04-06 14:25 | 英语练习（Shadow Reading / Speaking）- 明天待做
 - [ ] https://github.com/paoloanzn/free-code
