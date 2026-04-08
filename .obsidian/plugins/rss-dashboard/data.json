@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1775626243229,
+      "lastUpdated": 1775629843213,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Vera-CPU-768x432.png"
         }
       ],
-      "lastUpdated": 1775626244310,
+      "lastUpdated": 1775629844174,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1775626245652,
+      "lastUpdated": 1775629845301,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1775626247302,
+      "lastUpdated": 1775629846947,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Google quietly launched an AI dictation app that works offline",
+          "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+          "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+          "content": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+          "pubDate": "Wed, 08 Apr 2026 05:40:19 GMT",
+          "guid": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+          "author": "Ivan Mehta",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "How to Deploy Open WebUI with Secure OpenAI API Integration, Public Tunneling, and Browser-Based Chat Access",
           "link": "https://www.marktechpost.com/2026/04/07/how-to-deploy-open-webui-with-secure-openai-api-integration-public-tunneling-and-browser-based-chat-access/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "10 LLM Engineering Concepts Explained in 10 Minutes",
-          "link": "https://www.kdnuggets.com/10-llm-engineering-concepts-explained-in-10-minutes",
-          "description": "The 10 concepts every LLM engineer swears by to build reliable AI systems.",
-          "content": "The 10 concepts every LLM engineer swears by to build reliable AI systems.",
-          "pubDate": "Tue, 07 Apr 2026 12:00:31 GMT",
-          "guid": "https://www.kdnuggets.com/10-llm-engineering-concepts-explained-in-10-minutes",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "The 10 concepts every LLM engineer swears by to build reliable AI systems.",
-          "author": "Kanwal Mehreen",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1775626248783,
+      "lastUpdated": 1775629848862,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
