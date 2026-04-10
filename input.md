@@ -9,3 +9,5 @@
 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
 ![[Diagram.svg]]
 - [ ] 2026-04-08 17:13 | 知乎回答（待看）：https://www.zhihu.com/question/2022645720885327267/answer/2022917890169414272
+
+BOP + 设计 + 仿真 CAD输入--> Workflow / Scene / Dashboard 
