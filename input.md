@@ -12,3 +12,8 @@ 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
 
 BOP + 设计 + 仿真 CAD输入--> Workflow / Scene / Dashboard 
 把设计转化成 可执行的Workflow
+
+- 基于输入（SOP，CAD，Plant/Process Simulation Result）  -> Scene（设备及设备位置确定） + Workflow ( test kit )（通过过程生成，如果提供的输入没有涉及到过程，就需要交互来确定）
+
+- ***定义《工业需求到可执行流程》的 Harness*** --> Basic Agent ( Claude Code / Open Code  )
+- Air test： 测试，logic，workflow.air，workflow_test.air
