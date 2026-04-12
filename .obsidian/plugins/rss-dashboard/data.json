@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1775999486781,
+      "lastUpdated": 1776003034361,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/image1-copy-768x432.png"
         }
       ],
-      "lastUpdated": 1775999489368,
+      "lastUpdated": 1776003036049,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1775999493121,
+      "lastUpdated": 1776003039205,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1775999495433,
+      "lastUpdated": 1776003042008,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It",
+          "link": "https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/",
+          "description": "Most ReAct-style agents are silently wasting their retry budget on errors that can never succeed. In a 200-task benchmark, 90.8% of retries were spent on hallucinated tool calls — not model mistakes, but architectural flaws. This article shows why prompt tuning won’t fix it, and the three structural changes that eliminate wasted retries entirely. The post Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It appeared first on Towards Data Science .",
+          "content": "Most ReAct-style agents are silently wasting their retry budget on errors that can never succeed. In a 200-task benchmark, 90.8% of retries were spent on hallucinated tool calls — not model mistakes, but architectural flaws. This article shows why prompt tuning won’t fix it, and the three structural changes that eliminate wasted retries entirely. The post Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It appeared first on Towards Data Science .",
+          "pubDate": "Sun, 12 Apr 2026 13:00:00 GMT",
+          "guid": "https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "Most ReAct-style agents are silently wasting their retry budget on errors that can never succeed. In a 200-task benchmark, 90.8% of retries were spent on hallucinated tool calls — not model mistakes, but architectural fl...",
+          "author": "Emmimal P Alexander",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2",
           "link": "https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Advanced NotebookLM Tips & Tricks for Power Users",
-          "link": "https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users",
-          "description": "Let's break down five newly introduced, high-impact features, and discuss how advanced practitioners can incorporate them into their daily workflows to maximize productivity.",
-          "content": "Let's break down five newly introduced, high-impact features, and discuss how advanced practitioners can incorporate them into their daily workflows to maximize productivity.",
-          "pubDate": "Fri, 10 Apr 2026 14:00:06 GMT",
-          "guid": "https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "Let's break down five newly introduced, high-impact features, and discuss how advanced practitioners can incorporate them into their daily workflows to maximize productivity.",
-          "author": "Matthew Mayo",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1775999497625,
+      "lastUpdated": 1776003044284,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
