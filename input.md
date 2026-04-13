@@ -22,3 +22,5 @@ BOP + 设计 + 仿真 CAD输入--> Workflow / Scene / Dashboard
 从去年夏天上传的，但是毫米 + Z up 的，
 
 ![[Pasted image 20260413163342.png]]
+
+![[Pasted image 20260413163516.png]]
