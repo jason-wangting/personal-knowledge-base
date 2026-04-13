@@ -18,3 +18,5 @@ BOP + 设计 + 仿真 CAD输入--> Workflow / Scene / Dashboard
 - ***定义《工业需求到可执行Workflow的流程》的 Harness*** --> Basic Agent ( Claude Code / Open Code  )
 - Air test： 测试，logic，workflow.air，workflow_test.air
 - [ ] 2026-04-13 00:58 | 找英语视频/文章：关于小人物如何变成大人物（普通人逆袭的故事）
+
+从去年夏天上传的，但是毫米 + Z up 的，
