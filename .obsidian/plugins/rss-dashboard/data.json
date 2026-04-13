@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776071489028,
+      "lastUpdated": 1776077376300,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/image1-copy-768x432.png"
         }
       ],
-      "lastUpdated": 1776071489697,
+      "lastUpdated": 1776077377800,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1776071490922,
+      "lastUpdated": 1776077380818,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776071512675,
+      "lastUpdated": 1776077383513,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "AI Agents Are Coming for Your Dating Life",
+          "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+          "description": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+          "content": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+          "pubDate": "Mon, 13 Apr 2026 10:00:00 GMT",
+          "guid": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+          "author": "Joel Khalili",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "An Implementation Guide to Building a DuckDB-Python Analytics Pipeline with SQL, DataFrames, Parquet, UDFs, and Performance Profiling",
           "link": "https://www.marktechpost.com/2026/04/13/an-implementation-guide-to-building-a-duckdb-python-analytics-pipeline-with-sql-dataframes-parquet-udfs-and-performance-profiling/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
-          "link": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
-          "description": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step […] The post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Con",
-          "content": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step […] The post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Con",
-          "pubDate": "Fri, 10 Apr 2026 23:06:41 GMT",
-          "guid": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole ...",
-          "author": "Michal Sutter",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1776071514775,
+      "lastUpdated": 1776077385792,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
