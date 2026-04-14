@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776152976664,
+      "lastUpdated": 1776156576814,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/image1-copy-768x432.png"
         }
       ],
-      "lastUpdated": 1776152978503,
+      "lastUpdated": 1776156578065,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1776152980271,
+      "lastUpdated": 1776156579722,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776152982860,
+      "lastUpdated": 1776156583370,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful and Open Large Audio-Language Model",
+          "link": "https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/",
+          "description": "Understanding audio has always been the multimodal frontier that lags behind vision. While image-language models have rapidly scaled toward real-world deployment, building open models that robustly reason over speech, environmental sounds, and music — especially at length — has remained quite hard. NVIDIA and the University of Maryland researchers are now taking a direct swing […] The post NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful",
+          "content": "Understanding audio has always been the multimodal frontier that lags behind vision. While image-language models have rapidly scaled toward real-world deployment, building open models that robustly reason over speech, environmental sounds, and music — especially at length — has remained quite hard. NVIDIA and the University of Maryland researchers are now taking a direct swing […] The post NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful",
+          "pubDate": "Tue, 14 Apr 2026 08:24:23 GMT",
+          "guid": "https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "Understanding audio has always been the multimodal frontier that lags behind vision. While image-language models have rapidly scaled toward real-world deployment, building open models that robustly reason over speech, en...",
+          "author": "Asif Razzaq",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Carbon removal project supports Maine’s blue economy, broader marine health",
           "link": "https://news.mit.edu/2026/carbon-removal-project-supports-maines-blue-economy-broader-marine-health-0414",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search",
-          "link": "https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/",
-          "description": "MiniMax, the AI research company behind the MiniMax omni-modal model stack, has released MMX-CLI — Node.js-based command-line interface that exposes the MiniMax AI platform’s full suite of generative capabilities, both to human developers working in a terminal and to AI agents running in tools like Cursor, Claude Code, and OpenCode. What Problem Is MMX-CLI Solving? […] The post MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, V",
-          "content": "MiniMax, the AI research company behind the MiniMax omni-modal model stack, has released MMX-CLI — Node.js-based command-line interface that exposes the MiniMax AI platform’s full suite of generative capabilities, both to human developers working in a terminal and to AI agents running in tools like Cursor, Claude Code, and OpenCode. What Problem Is MMX-CLI Solving? […] The post MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, V",
-          "pubDate": "Mon, 13 Apr 2026 05:17:40 GMT",
-          "guid": "https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "MiniMax, the AI research company behind the MiniMax omni-modal model stack, has released MMX-CLI — Node.js-based command-line interface that exposes the MiniMax AI platform’s full suite of generative capabilities, both t...",
-          "author": "Shobha Kakkar",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1776152985263,
+      "lastUpdated": 1776156585409,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
