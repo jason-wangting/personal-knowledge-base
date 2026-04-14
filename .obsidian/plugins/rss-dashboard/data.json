@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776134975201,
+      "lastUpdated": 1776145825702,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/image1-copy-768x432.png"
         }
       ],
-      "lastUpdated": 1776134977054,
+      "lastUpdated": 1776145827143,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1776134978642,
+      "lastUpdated": 1776145829370,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776134981130,
+      "lastUpdated": 1776145831999,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Carbon removal project supports Maine’s blue economy, broader marine health",
+          "link": "https://news.mit.edu/2026/carbon-removal-project-supports-maines-blue-economy-broader-marine-health-0414",
+          "description": "A chemical-free approach to balancing ocean acidity protects marine life and could dramatically impact the global aquaculture market.",
+          "content": "A chemical-free approach to balancing ocean acidity protects marine life and could dramatically impact the global aquaculture market.",
+          "pubDate": "Tue, 14 Apr 2026 04:00:00 GMT",
+          "guid": "https://news.mit.edu/2026/carbon-removal-project-supports-maines-blue-economy-broader-marine-health-0414",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "A chemical-free approach to balancing ocean acidity protects marine life and could dramatically impact the global aquaculture market.",
+          "author": "Anne Wilson | Department of Mechanical Engineering",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "OpenAI has bought AI personal finance startup Hiro",
           "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Anthropic Just Shipped the Layer That’s Already Going to Zero",
-          "link": "https://towardsai.net/p/machine-learning/anthropic-just-shipped-the-layer-thats-already-going-to-zero",
-          "description": "Last Updated on April 13, 2026 by Editorial Team Author(s): Gaurav Yadav Originally published on Towards AI. Anthropic shipped Managed Agents this week. AWS Bedrock AgentCore has been GA for five months. The interesting question isn’t who wins the runtime — it’s where the value migrates when the layer goes flat. On April 8, Anthropic launched the public beta of Claude Managed Agents. The launch coverage hit the predictable beats: ten-times-faster shipping, Notion and Asana as adopters, sandboxed",
-          "content": "Last Updated on April 13, 2026 by Editorial Team Author(s): Gaurav Yadav Originally published on Towards AI. Anthropic shipped Managed Agents this week. AWS Bedrock AgentCore has been GA for five months. The interesting question isn’t who wins the runtime — it’s where the value migrates when the layer goes flat. On April 8, Anthropic launched the public beta of Claude Managed Agents. The launch coverage hit the predictable beats: ten-times-faster shipping, Notion and Asana as adopters, sandboxed",
-          "pubDate": "Mon, 13 Apr 2026 04:01:01 GMT",
-          "guid": "https://towardsai.net/p/machine-learning/anthropic-just-shipped-the-layer-thats-already-going-to-zero",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "Last Updated on April 13, 2026 by Editorial Team Author(s): Gaurav Yadav Originally published on Towards AI. Anthropic shipped Managed Agents this week. AWS Bedrock AgentCore has been GA for five months. The interesting ...",
-          "author": "Gaurav Yadav",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1776134983326,
+      "lastUpdated": 1776145834615,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
