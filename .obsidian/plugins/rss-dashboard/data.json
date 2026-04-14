@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776160175436,
+      "lastUpdated": 1776163775430,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/image1-copy-768x432.png"
         }
       ],
-      "lastUpdated": 1776160176846,
+      "lastUpdated": 1776163777631,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1776160178736,
+      "lastUpdated": 1776163779277,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776160181192,
+      "lastUpdated": 1776163781643,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+          "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+          "description": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+          "content": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+          "pubDate": "Tue, 14 Apr 2026 10:30:00 GMT",
+          "guid": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+          "author": "Katie Drummond",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Bringing people together at AI for the Economy Forum",
           "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "The largest orbital compute cluster is open for business",
-          "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-          "description": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-          "content": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-          "pubDate": "Mon, 13 Apr 2026 07:01:00 GMT",
-          "guid": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-          "author": "Tim Fernholz",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1776160183221,
+      "lastUpdated": 1776163784689,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
