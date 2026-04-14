@@ -109,21 +109,21 @@ Extensions
 DAM ^6TYIA89C
 
 ## Embedded Files
-d68cc73f0a4ebdaed57f03c9bf7627a719431ae4: [[Attachments/Pasted Image 20260409223948_589.png]]
+d68cc73f0a4ebdaed57f03c9bf7627a719431ae4: [[assets/Pasted Image 20260409223948_589.png]]
 
-74b56b1ce98aa3a65ddafecf4b520d6fe7275c96: [[Attachments/Pasted Image 20260409224048_876.png]]
+74b56b1ce98aa3a65ddafecf4b520d6fe7275c96: [[assets/Pasted Image 20260409224048_876.png]]
 
-f5c23ec4e976fd8208325a927fe23e5543266495: [[Attachments/Pasted Image 20260409224120_525.png]]
+f5c23ec4e976fd8208325a927fe23e5543266495: [[assets/Pasted Image 20260409224120_525.png]]
 
-5e8375b45b1210fc36abb483aee77c7ae0540689: [[Attachments/Pasted Image 20260409224238_517.png]]
+5e8375b45b1210fc36abb483aee77c7ae0540689: [[assets/Pasted Image 20260409224238_517.png]]
 
-fd17f5b486898b7832e207c60e2710f1d75b05a7: [[Attachments/Pasted Image 20260409224629_079.png]]
+fd17f5b486898b7832e207c60e2710f1d75b05a7: [[assets/Pasted Image 20260409224629_079.png]]
 
-dcb7c123bb4dc693e4de956d1837cafa04f27628: [[Attachments/Pasted Image 20260409224722_626.png]]
+dcb7c123bb4dc693e4de956d1837cafa04f27628: [[assets/Pasted Image 20260409224722_626.png]]
 
-5d9c62360b7e4af6795d0fc7092396094923486b: [[Attachments/Pasted Image 20260409224750_045.png]]
+5d9c62360b7e4af6795d0fc7092396094923486b: [[assets/Pasted Image 20260409224750_045.png]]
 
-82c4618d682f6689fe901bb29b445434951236a8: [[Attachments/star (3).svg]]
+82c4618d682f6689fe901bb29b445434951236a8: [[assets/star (3).svg]]
 
 %%
 ## Drawing
