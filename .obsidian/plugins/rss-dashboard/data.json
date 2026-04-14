@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776156576814,
+      "lastUpdated": 1776160175436,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/image1-copy-768x432.png"
         }
       ],
-      "lastUpdated": 1776156578065,
+      "lastUpdated": 1776160176846,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1776156579722,
+      "lastUpdated": 1776160178736,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776156583370,
+      "lastUpdated": 1776160181192,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Bringing people together at AI for the Economy Forum",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+          "description": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+          "content": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+          "pubDate": "Tue, 14 Apr 2026 09:00:00 GMT",
+          "guid": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+          "author": "James Manyika",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful and Open Large Audio-Language Model",
           "link": "https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-          "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-          "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-          "content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-          "pubDate": "Mon, 13 Apr 2026 06:00:00 GMT",
-          "guid": "https://openai.com/index/cloudflare-openai-agent-cloud",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-          "author": "Unknown",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1776156585409,
+      "lastUpdated": 1776160183221,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
