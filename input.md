@@ -24,3 +24,6 @@ BOP + 设计 + 仿真 CAD输入--> Workflow / Scene / Dashboard
 ![[Pasted image 20260413163342.png]]
 
 ![[Pasted image 20260413163516.png]]
+
+
+SNC 穿戴设备 -->  
