@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776736807237,
+      "lastUpdated": 1776740406913,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/CUDA-MPS-e1765825617242-768x432.webp"
         }
       ],
-      "lastUpdated": 1776736807848,
+      "lastUpdated": 1776740407525,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1776736808538,
+      "lastUpdated": 1776740408297,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1776736809590,
+      "lastUpdated": 1776740409425,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinated Steps",
+          "link": "https://www.marktechpost.com/2026/04/20/moonshot-ai-releases-kimi-k2-6-with-long-horizon-coding-agent-swarm-scaling-to-300-sub-agents-and-4000-coordinated-steps/",
+          "description": "Moonshot AI, the Chinese AI lab behind the Kimi assistant, today open-sourced Kimi K2.6 — a native multimodal agentic model that pushes the boundaries of what an AI system can do when left to run autonomously on hard software engineering problems. The release targets practical deployment scenarios: long-running coding agents, front-end generation from natural language, […] The post Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinate",
+          "content": "Moonshot AI, the Chinese AI lab behind the Kimi assistant, today open-sourced Kimi K2.6 — a native multimodal agentic model that pushes the boundaries of what an AI system can do when left to run autonomously on hard software engineering problems. The release targets practical deployment scenarios: long-running coding agents, front-end generation from natural language, […] The post Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinate",
+          "pubDate": "Tue, 21 Apr 2026 01:58:50 GMT",
+          "guid": "https://www.marktechpost.com/2026/04/20/moonshot-ai-releases-kimi-k2-6-with-long-horizon-coding-agent-swarm-scaling-to-300-sub-agents-and-4000-coordinated-steps/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "Moonshot AI, the Chinese AI lab behind the Kimi assistant, today open-sourced Kimi K2.6 — a native multimodal agentic model that pushes the boundaries of what an AI system can do when left to run autonomously on hard sof...",
+          "author": "Asif Razzaq",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
           "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
-          "link": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
-          "description": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the shift to AI-driven production. The question is no longer whether to adopt AI, but how fast and at what […]",
-          "content": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the shift to AI-driven production. The question is no longer whether to adopt AI, but how fast and at what […]",
-          "pubDate": "Mon, 20 Apr 2026 08:30:55 GMT",
-          "guid": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the s...",
-          "author": "James McKenna",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1776736810895,
+      "lastUpdated": 1776740410683,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
