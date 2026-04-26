@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777214908804,
+      "lastUpdated": 1777218686099,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/finance-trading-768x432.png"
         }
       ],
-      "lastUpdated": 1777214909676,
+      "lastUpdated": 1777218688137,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!KVkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06be9f63-ea22-4aef-a4f1-9b52fe3a4cac_1200x620.jpeg"
         }
       ],
-      "lastUpdated": 1777214911511,
+      "lastUpdated": 1777218688869,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777214912523,
+      "lastUpdated": 1777218690011,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning",
+          "link": "https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/",
+          "description": "Why learn 8 scripts when you can learn 256 bytes? The post Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning appeared first on Towards Data Science .",
+          "content": "Why learn 8 scripts when you can learn 256 bytes? The post Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning appeared first on Towards Data Science .",
+          "pubDate": "Sun, 26 Apr 2026 15:00:00 GMT",
+          "guid": "https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "Why learn 8 scripts when you can learn 256 bytes? The post Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning appeared first on Towards Data Science .",
+          "author": "Vedant Jumle",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong",
           "link": "https://towardsdatascience.com/i-reduced-my-pandas-runtime-by-95-heres-what-i-was-doing-wrong/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Google to invest up to $40B in Anthropic in cash and compute",
-          "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-          "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-          "content": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-          "pubDate": "Fri, 24 Apr 2026 18:00:03 GMT",
-          "guid": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-          "author": "Rebecca Bellan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777214917956,
+      "lastUpdated": 1777218697284,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
