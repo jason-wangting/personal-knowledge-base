@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778036003592,
+      "lastUpdated": 1778046803942,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/materials-science-chemistry-768x432.jpg"
         }
       ],
-      "lastUpdated": 1778036004308,
+      "lastUpdated": 1778046804705,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/183763653/9dad1b835a5178a4fe49a8417ea67d3c.mp3"
         }
       ],
-      "lastUpdated": 1778036005292,
+      "lastUpdated": 1778046805443,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778036006539,
+      "lastUpdated": 1778046806942,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Method for stress-testing cloud computing algorithms helps avoid network failures",
+          "link": "https://news.mit.edu/2026/method-stress-testing-cloud-computing-algorithms-helps-avoid-network-failures-0506",
+          "description": "The “MetaEase” technique provides a heads-up to potential scenarios that could cause long wait-times or outages.",
+          "content": "The “MetaEase” technique provides a heads-up to potential scenarios that could cause long wait-times or outages.",
+          "pubDate": "Wed, 06 May 2026 04:00:00 GMT",
+          "guid": "https://news.mit.edu/2026/method-stress-testing-cloud-computing-algorithms-helps-avoid-network-failures-0506",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "The “MetaEase” technique provides a heads-up to potential scenarios that could cause long wait-times or outages.",
+          "author": "Adam Zewe | MIT News",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Inworld AI Launches Realtime TTS-2: A Closed-Loop Voice Model That Adapts to How You Actually Talk",
           "link": "https://www.marktechpost.com/2026/05/05/inworld-ai-launches-realtime-tts-2-a-closed-loop-voice-model-that-adapts-to-how-you-actually-talk/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-          "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-          "description": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX and SignalFire, TechCrunch has exclusively learned.",
-          "content": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX and SignalFire, TechCrunch has exclusively learned.",
-          "pubDate": "Tue, 05 May 2026 14:07:47 GMT",
-          "guid": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX and SignalFire, TechCrunch has exclusively learned.",
-          "author": "Ram Iyer",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1778036007923,
+      "lastUpdated": 1778046808430,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
