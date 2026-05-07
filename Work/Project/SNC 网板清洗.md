@@ -11,7 +11,7 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Embedded Files
-a60f15b800bc51e5f79d6ba69cb3697e702a6ace: [[assets/SNC 网板清洗/Pasted Image 20260507140215_227.png]]
+a60f15b800bc51e5f79d6ba69cb3697e702a6ace: [[assets/SNC 网板清洗/file-20260507140647744.png]]
 
 %%
 ## Drawing
