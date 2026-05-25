@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1779682931832,
+      "lastUpdated": 1779700674483,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/workstation-tech-blog-600x338-1.gif"
         }
       ],
-      "lastUpdated": 1779682932322,
+      "lastUpdated": 1779700675090,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!yTUp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69d3b3b4-a53a-4be2-ae1c-1b4f1bc4437a_1920x1080.webp"
         }
       ],
-      "lastUpdated": 1779682934270,
+      "lastUpdated": 1779700675865,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1779682936056,
+      "lastUpdated": 1779700677184,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
+          "link": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
+          "description": "Most web applications still have no structured way for an AI agent to register. auth.md proposes a fix: a Markdown file apps publish at their domain that tells agents which registration flows are supported, which scopes to request, and how to get credentials tied to a real user — without a human filling out a form. The post WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards appeared first on MarkTechPost .",
+          "content": "Most web applications still have no structured way for an AI agent to register. auth.md proposes a fix: a Markdown file apps publish at their domain that tells agents which registration flows are supported, which scopes to request, and how to get credentials tied to a real user — without a human filling out a form. The post WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards appeared first on MarkTechPost .",
+          "pubDate": "Mon, 25 May 2026 07:38:15 GMT",
+          "guid": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "Most web applications still have no structured way for an AI agent to register. auth.md proposes a fix: a Markdown file apps publish at their domain that tells agents which registration flows are supported, which scopes ...",
+          "author": "Asif Razzaq",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
           "link": "https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "You can no longer Google the word ‘disregard’",
-          "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-          "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-          "content": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-          "pubDate": "Fri, 22 May 2026 16:16:48 GMT",
-          "guid": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-          "author": "Russell Brandom",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1779682937460,
+      "lastUpdated": 1779700678726,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
