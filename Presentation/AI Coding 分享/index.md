@@ -1,5 +1,10 @@
 # AI Coding 实践分享（大纲 v1）
 
+## 使用前说明（必讲）
+- 公司目前已支持 GitHub Copilot 企业版。
+- 申请地址：https://siemens.sharepoint.com/sites/devboost/SitePages/Getting-Started.aspx
+- 本次分享后续所有经验与实操，均基于 GitHub Copilot 平台展开。
+
 ## 0. 开场（3 min）
 - 我是谁 / 为什么做这个分享
 - 今天解决的问题：
