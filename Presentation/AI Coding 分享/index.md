@@ -1,6 +1,3 @@
----
-marp: true
----
 
 # Coding With AI in Practice（按 Slide 拆分）
 
