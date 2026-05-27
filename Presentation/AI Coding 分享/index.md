@@ -1,4 +1,4 @@
-# AI Coding 实践分享（按 Slide 拆分）
+# Coding With AI in Practice（按 Slide 拆分）
 
 ## 使用规范
 - 每一页均按以下结构编写：第几页、提示词、解释、重点描述。
@@ -7,14 +7,14 @@
 
 ## 第 1 页：封面
 提示词：
-生成一页企业内部技术分享封面页，主题是“AI Coding 实践分享：从尝鲜到稳定落地”，副标题“基于 GitHub Copilot 企业版的真实经验”。风格专业、简洁、偏工程团队气质。包含演讲者姓名、部门、日期。避免过于花哨的装饰。
+生成一页企业内部技术分享封面页，主题是“Coding With AI in Practice”，副标题“Vibe Coding -> Plan -> Spec”。风格专业、简洁、偏工程团队气质。包含演讲者姓名、部门、日期。避免过于花哨的装饰。
 
 解释：
 建立正式感与可信度，让同事知道这是实战经验分享，不是概念科普。
 
 重点描述：
-- 标题：AI Coding 实践分享
-- 副标题：从尝鲜到稳定落地
+- 标题：Coding With AI in Practice
+- 副标题：Vibe Coding -> Plan -> Spec
 - 关键信息：基于 GitHub Copilot 企业版
 
 ## 第 2 页：使用前说明（必讲）
