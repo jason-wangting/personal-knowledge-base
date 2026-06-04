@@ -16,7 +16,7 @@ tags: [excalidraw]
 4. 视觉模块，是否需要另外开发，BE 中如何模拟视觉算法 ^FkqfkjNY
 
 ## Embedded Files
-a60f15b800bc51e5f79d6ba69cb3697e702a6ace: [[assets/SNC 网板清洗/file-20260507140647744.png]]
+a60f15b800bc51e5f79d6ba69cb3697e702a6ace: [[assets/SNC 网板清洗介绍/file-20260605074141755.png]]
 
 %%
 ## Drawing
