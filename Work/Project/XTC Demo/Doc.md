@@ -1,9 +1,11 @@
+Hello everyone, Good afternoon, welcome to our booth,  today, I'd like to introduce our multi-agent system MioVerse for generating workflows and 3D scenes using natural language.
+
 1. Traditionally, process engineers write SOPs (standard operating procedures) first. 
 Then other engineers have to read these SOPs carefully and turn them into workflows. 
 
 2. This is a workflow example, which is built in the Workflow Canvas. 
 Workflow Canvas is an industrial Edge app belongs to DI FA HMI. 
-Developers can drag and drop function blocks to create the workflow to describe the production process line. 
+Developers can drag and drop function blocks to create the workflow to describe the production line. 
 
 3. This is not easy enough and takes a little effort. 
 
