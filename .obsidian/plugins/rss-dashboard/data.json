@@ -581,7 +581,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1782975507131,
+      "lastUpdated": 1782982707289,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1099,7 +1099,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/WAM_Blog_Post_Header-768x432.png"
         }
       ],
-      "lastUpdated": 1782975507634,
+      "lastUpdated": 1782982708126,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -1777,7 +1777,7 @@
           "audioUrl": "https://substackcdn.com/image/fetch/$s_!aUOs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1db40b23-0fe4-4051-b254-001fbcba3f8d_3840x2160.webp"
         }
       ],
-      "lastUpdated": 1782975508215,
+      "lastUpdated": 1782982708977,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2370,7 +2370,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1782975509313,
+      "lastUpdated": 1782982710297,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
@@ -2387,6 +2387,29 @@
       "url": "https://planet-ai.net/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+          "link": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/",
+          "description": "The Google Health API now has an open-source CLI. ghealth is a single Go binary that exposes 40 data types as agent-ready JSON. It is a community project, not an official Google release. Here's how it works, and what to check before granting OAuth access. The post The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data appeared first on MarkTechPost .",
+          "content": "The Google Health API now has an open-source CLI. ghealth is a single Go binary that exposes 40 data types as agent-ready JSON. It is a community project, not an official Google release. Here's how it works, and what to check before granting OAuth access. The post The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data appeared first on MarkTechPost .",
+          "pubDate": "Thu, 02 Jul 2026 08:46:56 GMT",
+          "guid": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "AI-planet",
+          "feedUrl": "https://planet-ai.net/rss.xml",
+          "coverImage": "",
+          "summary": "The Google Health API now has an open-source CLI. ghealth is a single Go binary that exposes 40 data types as agent-ready JSON. It is a community project, not an official Google release. Here's how it works, and what to ...",
+          "author": "Michal Sutter",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://planet-ai.net/media/planetai_logo.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
           "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
@@ -2938,32 +2961,9 @@
           "image": "https://planet-ai.net/media/planetai_logo.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "How to Use RLMs in Deep Agents",
-          "link": "https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents",
-          "description": "Recursive language models (RLMs) fix context rot by having agents write code that dispatches subagents over context chunks instead of pumping everything in one context window. Deep Agents now implements this through dynamic subagents and a lightweight code interpreter, letting agents programmatically fan out work like grep, map, and reduce over large inputs. We benchmark the approach on OOLONG, a long-context reasoning task, and show it holds up where turn-by-turn agents start to break down.",
-          "content": "Recursive language models (RLMs) fix context rot by having agents write code that dispatches subagents over context chunks instead of pumping everything in one context window. Deep Agents now implements this through dynamic subagents and a lightweight code interpreter, letting agents programmatically fan out work like grep, map, and reduce over large inputs. We benchmark the approach on OOLONG, a long-context reasoning task, and show it holds up where turn-by-turn agents start to break down.",
-          "pubDate": "Wed, 01 Jul 2026 15:38:16 GMT",
-          "guid": "https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "AI-planet",
-          "feedUrl": "https://planet-ai.net/rss.xml",
-          "coverImage": "",
-          "summary": "Recursive language models (RLMs) fix context rot by having agents write code that dispatches subagents over context chunks instead of pumping everything in one context window. Deep Agents now implements this through dyna...",
-          "author": "Unknown",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://planet-ai.net/media/planetai_logo.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1782975510734,
+      "lastUpdated": 1782982711849,
       "autoDeleteDuration": 0,
       "maxItemsLimit": 25,
       "scanInterval": 0,
