@@ -304,7 +304,7 @@ import / export Resource Instance ^e3XeITDw
     }, ^ZvRLRSIJ
 
 ## Embedded Files
-7e79572c1063f27c190972695ee031199c4067b2: [[assets/New Design/Pasted Image 20260805170050_607.png]]
+7e79572c1063f27c190972695ee031199c4067b2: [[assets/New Design/file-20260820222720056.png]]
 
 %%
 ## Drawing
