@@ -7,4 +7,4 @@ I know all details from engineering tools to orchestration.
 
 Now I work on two topics. First, using LLMs to generate workflows. we built a long‑running Agent for it. We showed the demo at this year’s XTC in Germany, and it works well. I’m still improving it. 
 
-Second, building a semantic plane for production lines. We get process data from systems like WinCC. Developers understand the data easily, but operation Agents need one unified, self‑exploring and self‑explaining semantic layer. With this layer, Agents can check the production line automatically. This is still under research.
+Second, building a semantic plane for production lines. We get process data from systems like WinCC. Developers understand the data easily, but operation Agents need one unified, self‑exploring and self‑explaining semantic layer. With this layer, Agents can analysis the production line automatically. This is still under research.
