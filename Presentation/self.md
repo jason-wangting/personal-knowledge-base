@@ -1,5 +1,5 @@
 Hello everyone, good afternoon and welcome to China. 
-My name is Wang Ting. I’ve worked at Siemens for seven years. 
+My name is Wang Ting. I’ve worked at Siemens for seven years as software engineer. 
 About five years ago, I transferred from ADV to FT, and later joined the WFC team. 
 In fact, I wrote the first line of core code for WFC. 
 I’m the Scrum Master of the frontend team, and I’m in charge of WFC’s core architecture.
