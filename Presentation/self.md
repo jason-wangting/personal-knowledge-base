@@ -1,6 +1,15 @@
 Hello everyone, good afternoon and welcome to China. 
 My name is Wang Ting. I’ve worked at Siemens for seven years as full-stack engineer. 
 
+Previously, my main programming languages were JavaScript, Go, and Rust. Nowadays, I spend most of my time coding in Chinese with AI coding agents.
+
+About five years ago, I started leading a team to develop Workflow Canvas, a low-code engineering tool for integrating IT and OT systems.
+
+Today, I'm focusing on how to leverage AI to generate workflows automatically, rather than requiring engineers to manually create them by dragging and dropping components.
+
+So, I have experience about how to build engineering platform and how to create Code Agent . I am thinking that's the reason why I was involved this project. I am very happy to join our team to research this interesting topic. Thank you.
+
+
 
 About five years ago, I transferred from ADV to FT, and later joined the WFC team. 
 In fact, I wrote the first line of core code for WFC. 
