@@ -7,7 +7,11 @@ About five years ago, I started leading a team to develop Workflow Canvas, a low
 
 Today, I'm focusing on how to leverage AI to generate workflows automatically, rather than requiring engineers to manually create them by dragging and dropping components.
 
-So, I have experience about how to build engineering platform and how to create Code Agent . I am thinking that's the reason why I was involved this project. I am very happy to join our team to research this interesting topic. Thank you.
+So, I have experience in both building engineering platforms and developing AI coding agents. I think that's probably why I was invited to join this project.
+
+I'm really happy to be part of the team and to explore this interesting topic together with you.
+
+Thank you!
 
 
 
