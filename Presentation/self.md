@@ -14,7 +14,7 @@ I'm really happy to be part of the team and to explore this interesting topic to
 Thank you!
 
 Since I just learned about this project yesterday, I'd like to take some time to understand the context and explore how I can contribute.
-
+Sorry I have an annual leave tomorrow, so I am afraid that I can not 
 
 
 About five years ago, I transferred from ADV to FT, and later joined the WFC team. 
